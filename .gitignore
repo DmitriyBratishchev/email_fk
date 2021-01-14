@@ -1,2 +1,5 @@
-images_copy/
-images/
+images_copy
+images
+.git
+
+index.html
